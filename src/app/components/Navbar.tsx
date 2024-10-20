@@ -7,6 +7,7 @@ export default function Navbar() {
         { name: "Produkty", href: "/food" },
         { name: "Ćwiczenia", href: "/excercise" },
         { name: "Ustawienia", href: "/settings" },
+        { name: "Kalkulator", href: "/calculator" },
     ]
     return (
         // improve viuals by changing fonts and colors
