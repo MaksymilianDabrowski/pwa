@@ -1,5 +1,5 @@
 import React from 'react';
-import Calculator from '../components/Calculator'; // Upewnij się, że ścieżka jest poprawna
+import Calculator from '../components/Calculator'; 
 
 export default function CalculatorPage() {
     return (
