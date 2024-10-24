@@ -8,6 +8,7 @@ export default function Navbar() {
         { name: "Ćwiczenia", href: "/excercise" },
         { name: "Ustawienia", href: "/settings" },
         { name: "Kalkulator", href: "/calculator" },
+        { name: "Pomiary", href: "/measure"},
     ]
     return (
         // improve viuals by changing fonts and colors

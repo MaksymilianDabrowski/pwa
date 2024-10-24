@@ -1,4 +1,5 @@
-import React from 'react';
+"use client";
+
 import Calculator from '../components/Calculator'; // Upewnij się, że ścieżka jest poprawna
 
 export default function CalculatorPage() {
